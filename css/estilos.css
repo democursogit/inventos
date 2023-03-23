@@ -172,4 +172,13 @@
             background: url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
             color: rgb(48, 6, 48);
         }
+        #header-movil{
+            background: url(../imagenes/header-movil.jpg) center center/40%;
+            color: rgb(74, 9, 77);
+            text-shadow: 1px 2px 2px rgb(155, 155, 165);
+        }
+        #header-movil p{
+            font-size: 1.5em;
+            text-shadow: 1px 1px 1px rgb(209, 209, 231);
+        }
   
