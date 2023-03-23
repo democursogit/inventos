@@ -196,6 +196,10 @@
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        /* invento movil */
+        .invento-movil{
+            background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
+            color: rgb(48, 6, 48);
         }
   
 
@@ -234,6 +238,25 @@
 
         .cajaPadre .caja-invento.lavadora{
             background: url(../imagenes/fondo-lavadora.jpg) center/cover;
+        }
+
+        /* invento movil */
+        .invento-movil{
+            background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
+            color: rgb(48, 6, 48);
+        }
+        #header-movil{
+            background: url(../imagenes/header-movil.jpg) center top/100%;
+            color: rgb(74, 9, 77);
+            text-shadow: 1px 2px 2px rgb(155, 155, 165);
+        }
+        #header-movil p{
+            font-size: 1.5em;
+            text-shadow: 1px 1px 1px rgb(209, 209, 231);
+        }
+        #header-movil p,#header-movil h1{
+            background: radial-gradient(circle, rgba(211, 213, 221, 0.4) 16%, rgba(134, 126, 126, 0.2) 70%);
+            border-radius: 15px;
         }
 
   
