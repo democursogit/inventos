@@ -83,9 +83,13 @@
             min-height: 200px;
             background: linear-gradient(rgba(64, 10, 150,0.6),rgba(64, 10, 150,0.1)),
                          url('../imagenes/fondo-inventos.jpg') right bottom/cover;
-            color:#FFF;
+            color:#ece9e9;
                  
         }
+
+        
+
+       
 
         header h1, header p{
             margin:5px;
@@ -190,74 +194,4 @@
 			text-align: center;
 
 		}
-
-        #fondo-procesador{
-            background-image: url("../imagenes/foto-fancy-cpu.jpg");
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-        /* invento movil */
-        .invento-movil{
-            background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
-            color: rgb(48, 6, 48);
-        }
-  
-
-        /* css en página invento-television e index (Hector) */
-        .imagen-fondo-invento-television{
-            background: url("../imagenes/imagen-movil-fondo.webp") -260px/cover !important;
-        }
-
-        .imagen-fondo-header{
-            background: url("../imagenes/fondo-header.jpg") center/cover;
-        }
-
-        .imagen-fondo-header h1, .imagen-fondo-header p{
-            background: #00000040;
-            border-radius: 25px;
-            padding: 10px;
-        }
-        
-        /* imagenes pantalones vaqueros */
-
-         /* cabecera pantalones */
-        .cabecera-pantalones{
-            background: url(../imagenes/Levis-cabecera-pantalon-vaquero.jpg)right center/cover;
-        }
-       
-        .img-vaqueros{
-            height: 400px;
-        }
-
-         /* -----------------CSS de invento lavadora---------------- */
-         .invento-lavadora{
-            background: linear-gradient(#000,transparent), url('../imagenes/candy-lavadoras.jpg') center center/cover;
-            min-height: 400px;
-        }
-
-
-        .cajaPadre .caja-invento.lavadora{
-            background: url(../imagenes/fondo-lavadora.jpg) center/cover;
-        }
-
-        /* invento movil */
-        .invento-movil{
-            background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
-            color: rgb(48, 6, 48);
-        }
-        #header-movil{
-            background: url(../imagenes/header-movil.jpg) center top/100%;
-            color: rgb(74, 9, 77);
-            text-shadow: 1px 2px 2px rgb(155, 155, 165);
-        }
-        #header-movil p{
-            font-size: 1.5em;
-            text-shadow: 1px 1px 1px rgb(209, 209, 231);
-        }
-        #header-movil p,#header-movil h1{
-            background: radial-gradient(circle, rgba(211, 213, 221, 0.4) 16%, rgba(134, 126, 126, 0.2) 70%);
-            border-radius: 15px;
-        }
-
   
