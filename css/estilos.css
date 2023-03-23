@@ -169,7 +169,7 @@
 		}
         /* invento movil */
         .invento-movil{
-            background: url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
+            background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
             color: rgb(48, 6, 48);
         }
         #header-movil{
