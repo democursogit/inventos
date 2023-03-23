@@ -91,6 +91,11 @@
             margin:5px;
             padding: 0;
         }
+        .cabecera-invento-teleferico{
+            background: linear-gradient(rgb(47, 71, 122), transparent),
+             	 url('../imagenes/teleferico-merida.jpg') center center/cover,
+	        	rgb(47, 71, 122);
+        }
 
 		nav{
 			padding: 1px;
