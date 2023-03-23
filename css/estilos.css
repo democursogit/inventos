@@ -168,6 +168,7 @@
             padding: 30px;
             border:1px solid #2a507c;
             text-align: center;
+            color:#FFF;
             
             background: linear-gradient(rgb(47, 71, 122), transparent),
             url('../imagenes/teleferico-merida.jpg') center center/cover,
