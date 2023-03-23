@@ -158,7 +158,7 @@
         }
         .cajaPadre .caja-invento.caja-pantalon{
             background: linear-gradient(#000000c6, #0000003d),
-                         url("../imagenes/bruce-springsteen-pantalon-vaquero.png") center/cover ;
+                         url("../imagenes/bruce-springsteen-pantalon-vaquero.png") center/cover !important ;
             min-height: 200px;
         }
 		.cajaPadre .caja-invento:nth-child(odd) img{
