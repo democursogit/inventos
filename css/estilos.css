@@ -473,4 +473,33 @@
                         url('../imagenes/onda-microonda.jfif') top 75% center/cover;
             color:#FFF;
         }
+
+        /* estilos nintendo */
+        .caja-invento.invento9{
+            background: /* linear-gradient(rgb(0, 0, 0, 0.3),rgb( 0, 0, 0, 0.5)), */ url('../imagenes/switch-alternativa-2.avif') left center/320% no-repeat, #e70014;
+        }
+
+        .caja-invento.invento9 h3{
+            color: #00bbdd;
+        }
+
+        .caja-invento.invento9 p{
+            margin: 30px 0;
+            color:#fff;
+            background: rgb(0, 0, 0, 0.7);
+            padding: 10px;
+            border-radius: 15px;            
+            
+        }
+
+        header.header-modelo-inventos{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+            min-height: 400px;
+            background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.7)),
+                         url('../imagenes/amigos-jugando.avif') center center/cover;
+            color:#FFF;    
+        }
   
