@@ -502,4 +502,17 @@
                          url('../imagenes/amigos-jugando.avif') center center/cover;
             color:#FFF;    
         }
+
+        /* cine */
+
+        header.fondo-header{
+            background:  url('../imagenes/pelicula-cine.jpg') center center/cover;
+        }
+
+        div.caja-invento#invento-cine{
+
+            background-color: #000;
+            background-image: url(../imagenes/sala.jpg);
+                
+        }
   
