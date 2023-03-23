@@ -177,7 +177,7 @@
             background: url("../imagenes/fondo-header.jpg") center/cover;
         }
 
-        header h1, header p{
+        .imagen-fondo-header h1, .imagen-fondo-header p{
             background: #00000040;
             border-radius: 25px;
             padding: 10px;
