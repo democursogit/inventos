@@ -181,4 +181,8 @@
             font-size: 1.5em;
             text-shadow: 1px 1px 1px rgb(209, 209, 231);
         }
+        #header-movil p,#header-movil h1{
+            background: radial-gradient(circle, rgba(211, 213, 221, 0.4) 16%, rgba(134, 126, 126, 0.2) 70%);
+            border-radius: 15px;
+        }
   
