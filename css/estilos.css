@@ -92,6 +92,8 @@
             padding: 0;
         }
 
+        
+
 		nav{
 			padding: 1px;
 			background: #000;
@@ -159,6 +161,8 @@
             margin:0 auto;
         }
 
+        
+
 		  /* -------------FOOTER PRINCIPAL ----------------*/
 		footer{
 			padding: 30px;
@@ -167,4 +171,17 @@
 			text-align: center;
 
 		}
+
+
+        /* -----------------CSS de invento lavadora---------------- */
+        .invento-lavadora{
+            background: linear-gradient(#000,transparent), url('../imagenes/candy-lavadoras.jpg') center center/cover;
+            min-height: 400px;
+        }
+
+
+        .cajaPadre .caja-invento.lavadora{
+            background: url(../imagenes/fondo-lavadora.jpg) center/cover;
+        }
+
   
