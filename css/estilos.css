@@ -177,8 +177,8 @@
         /* ---css  de portatil ---*/
 
         .cajaPadre .caja-invento.portatil{
-            background:linear-gradient(rgb(73, 72, 72),transparent), url(../imagenes/portatil-cabecera.jpg) center/cover;
-            color: #000;
+            background:linear-gradient(#ffffffad,transparent), url(../imagenes/portatil-verde.jpg) center/cover;
+            color: #070707;
             min-height: 200px;
            }
 
