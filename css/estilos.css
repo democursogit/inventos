@@ -140,7 +140,6 @@
             padding: 30px;
             border:1px solid #2a507c;
             text-align: center;
-
             background: #FFF ;
 
         }
@@ -167,4 +166,30 @@
 			text-align: center;
 
 		}
-  
+
+
+  /* ------------------------------------------------------ */
+  /* ------------------------------------------------------ */
+  /* ------------------------------------------------------ */
+        /* Estilo horno microondas */
+
+        .caja-invento-microondas{
+            flex-basis: 33.33%;
+            padding: 30px;
+            border:1px solid #2a507c;
+            text-align: center;
+            color: #FFF;
+            background: linear-gradient(to bottom, rgb(0 0 0 / .5),rgb(0 0 0 / .8)),
+            url("../imagenes/microondas.jpg") center center / cover;
+        }
+
+        .cabecera-invento-microondas{
+            display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+            min-height: 200px;
+            background: linear-gradient(rgba(64, 10, 150,0.6),rgba(64, 10, 150,0.1)),
+                         url('../imagenes/onda-microonda.jfif') top 75% center/cover;
+            color:#FFF;
+        }
