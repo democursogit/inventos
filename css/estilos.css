@@ -92,11 +92,6 @@
             padding: 0;
         }
 
-        /* cabecera pantalones */
-         .cabecera-pantalones{
-            background: url(../imagenes/Levis-cabecera-pantalon-vaquero.jpg)right center/cover;
-        }
-       
 
 		nav{
 			padding: 1px;
@@ -171,11 +166,6 @@
         }
 
 
-        /* imagenes pantalones vaqueros */
-        .img-vaqueros{
-            height: 400px;
-        }
-
 		  /* -------------FOOTER PRINCIPAL ----------------*/
 		footer{
 			padding: 30px;
@@ -207,4 +197,16 @@
             border-radius: 25px;
             padding: 10px;
         }
+        
+        /* imagenes pantalones vaqueros */
+
+         /* cabecera pantalones */
+        .cabecera-pantalones{
+            background: url(../imagenes/Levis-cabecera-pantalon-vaquero.jpg)right center/cover;
+        }
+       
+        .img-vaqueros{
+            height: 400px;
+        }
+
   
