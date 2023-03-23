@@ -87,12 +87,7 @@
                  
         }
 
-        .invento-portatil{
-           
-            background:url(../imagenes/foto-index.jpg) center center/cover;
-            min-height: 500px;
-            
-        }
+        
 
        
 
@@ -179,11 +174,18 @@
 
 		}
 
-        /* ---css  de portatil */
+        /* ---css  de portatil ---*/
 
         .cajaPadre .caja-invento.portatil{
             background:linear-gradient(rgb(73, 72, 72),transparent), url(../imagenes/portatil-cabecera.jpg) center/cover;
             color: #000;
             min-height: 200px;
            }
+
+           .invento-portatil{
+           
+            background:url(../imagenes/foto-index.jpg) center center/cover;
+            min-height: 500px;
+            
+        }   
   
