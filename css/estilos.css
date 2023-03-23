@@ -173,7 +173,7 @@
             color: rgb(48, 6, 48);
         }
         #header-movil{
-            background: url(../imagenes/header-movil.jpg) center center/40%;
+            background: url(../imagenes/header-movil.jpg) center top/100%;
             color: rgb(74, 9, 77);
             text-shadow: 1px 2px 2px rgb(155, 155, 165);
         }
