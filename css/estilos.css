@@ -517,11 +517,28 @@
         }
 
          /* Zona futbolin  */
+
         .caja-futbolin{
             background: linear-gradient(rgba(64, 10, 150,0.75),rgba(64, 10, 150,0.2)),
                         url('../imagenes/cab-futbolin.jpeg') center/cover !important;
         }
         .caja-futbolin p{
             margin-bottom: 40px;
+        }
+
+        .img-futbolin{
+            height: 400px;
+        }  
+
+        .cabeceraFutbolin{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+            min-height: 200px;
+            background: linear-gradient(rgba(64, 10, 150,0.6),rgba(64, 10, 150,0.1)),
+                         url('../imagenes/cab-futbolin.jpeg') center/cover;
+            color:#FFF;
+                 
         }
   
