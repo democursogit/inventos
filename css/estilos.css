@@ -167,4 +167,9 @@
 			text-align: center;
 
 		}
+        /* invento movil */
+        .invento-movil{
+            background: url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
+            color: rgb(48, 6, 48);
+        }
   
