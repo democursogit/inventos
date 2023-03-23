@@ -92,6 +92,12 @@
             padding: 0;
         }
 
+        /* cabecera pantalones */
+         .cabecera-pantalones{
+            background: url(../imagenes/Levis-cabecera-pantalon-vaquero.jpg)right center/cover;
+        }
+       
+
 		nav{
 			padding: 1px;
 			background: #000;
@@ -133,6 +139,7 @@
             
         }
  
+        
         .cajaPadre .caja-invento{
         
            
@@ -144,12 +151,16 @@
             background: #FFF ;
 
         }
-
+        
         .cajaPadre .caja-invento:nth-child(even){
             background: #2a507c;
             color:#FFF;
         }
-
+        .cajaPadre .caja-invento.caja-pantalon{
+            background: linear-gradient(#000000c6, #0000003d),
+                         url("../imagenes/bruce-springsteen-pantalon-vaquero.png") center/cover ;
+            min-height: 200px;
+        }
 		.cajaPadre .caja-invento:nth-child(odd) img{
            max-width: 100%;
         }
@@ -157,6 +168,12 @@
         .caja-invento-explicado{
             max-width: 1500px;
             margin:0 auto;
+        }
+
+
+        /* imagenes pantalones vaqueros */
+        .img-vaqueros{
+            height: 400px;
         }
 
 		  /* -------------FOOTER PRINCIPAL ----------------*/
