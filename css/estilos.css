@@ -83,8 +83,15 @@
             min-height: 200px;
             background: linear-gradient(rgba(64, 10, 150,0.6),rgba(64, 10, 150,0.1)),
                          url('../imagenes/fondo-inventos.jpg') right bottom/cover;
-            color:#FFF;
+            color:#ece9e9;
                  
+        }
+
+        .invento-portatil{
+           
+            background:url(../imagenes/foto-index.jpg) center center/cover;
+            min-height: 500px;
+            
         }
 
        
@@ -147,6 +154,8 @@
 
         }
 
+      
+
         .cajaPadre .caja-invento:nth-child(even){
             background: #2a507c;
             color:#FFF;
@@ -169,4 +178,12 @@
 			text-align: center;
 
 		}
+
+        /* ---css  de portatil */
+
+        .cajaPadre .caja-invento.portatil{
+            background:linear-gradient(rgb(73, 72, 72),transparent), url(../imagenes/portatil-cabecera.jpg) center/cover;
+            color: #000;
+            min-height: 200px;
+           }
   
