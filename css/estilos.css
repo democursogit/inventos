@@ -475,6 +475,8 @@
         }
 
         /* estilos nintendo */
+
+        /* Estilos Index.html */
         .caja-invento.invento9{
             background: /* linear-gradient(rgb(0, 0, 0, 0.3),rgb( 0, 0, 0, 0.5)), */ url('../imagenes/switch-alternativa-2.avif') left center/320% no-repeat, #e70014;
         }
@@ -488,19 +490,30 @@
             color:#fff;
             background: rgb(0, 0, 0, 0.7);
             padding: 10px;
-            border-radius: 15px;            
-            
+            border-radius: 15px;             
         }
-
+        /* Estilos invento-nintendo.html */
+        
         header.header-modelo-inventos{
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
 			align-items: center;
             min-height: 400px;
-            background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.7)),
-                         url('../imagenes/amigos-jugando.avif') center center/cover;
+            background:url('../imagenes/amigos-jugando.avif') center center/cover;
             color:#FFF;    
+        }
+
+        .caja-invento-explicado img{
+            width: 100%;
+        }
+
+        .caja-invento-explicado h4{
+            font-size: 1.5em;
+        }
+
+        .caja-invento-explicado p{
+            font-size: 1.3em;
         }
 
         /* cine */
