@@ -209,6 +209,13 @@
             background:radial-gradient(circle, rgba(211, 213, 221, 0.8) 16%, rgba(4,4,4,0.2) 70%),url(../imagenes/el-movil-que-cambia-de-color.jpeg) center center/cover !important;
             color: rgb(48, 6, 48);
         }
+        .invento-explicado-movil h4{
+            font-size: 1.6em;
+        }
+        .invento-explicado-movil p{
+            font-size: 1.4em;
+            font-weight: normal;
+        }
   
 
         /* css en página invento-television e index (Hector) */
