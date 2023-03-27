@@ -191,6 +191,13 @@
 
 		}
 
+        #fondo-procesador-oscuro{
+            background-image: url("../imagenes/fondo-black-chip.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
         #fondo-procesador{
             background-image: url("../imagenes/foto-fancy-cpu.jpg");
             background-position: center;
